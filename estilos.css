@@ -1,13 +1,13 @@
 body
 {
+    corlor: blue;
     text-align: center;
     font-family: "arial";
     front-size: 16px;
     margin: 0;
     padding: 0;
 }
-
 #cabecera
 {
-    background: blue
+    background: blue;
 }
