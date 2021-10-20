@@ -1,2 +1,2 @@
-# blog
-estudio para platzi
+# Primer Git de santiago e Github
+Estudio para plazti
